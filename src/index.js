@@ -3,9 +3,9 @@
 alert ('Hi, Welcome To Our Websites');
 
 
-alert('Hi, Miss')
-let title= prompt('What is your Name');
-alert(title )
+alert('Hi, Miss');
+let name1= prompt('What is your Name');
+alert(name1 );
 alert('Hi, Jenny')
 let title= prompt('What Your Favorite electrical applaiances');
 alert(title)
